@@ -27,7 +27,7 @@ Inspired by [hunk](https://github.com/modem-dev/hunk).
 
 ```lua
 {
-  dir = "~/Developer/self/hunkr.nvim", -- or "<you>/hunkr.nvim" once it is pushed
+  "mingo023/hunkr.nvim",
   dependencies = {
     "kyazdani42/nvim-tree.lua",
     "nvim-telescope/telescope.nvim",
