@@ -1,5 +1,7 @@
 # hunkr.nvim
 
+![hunkr.nvim review loop](assets/hunkr-hero.png)
+
 Review your own diff in Neovim, leave comments on the lines, hand them to Claude
 Code, read the replies where you wrote the questions.
 
